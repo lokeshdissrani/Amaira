@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { MapPin, Phone, Mail, Linkedin } from 'lucide-react';
+import { MapPin, Phone, Mail, Globe as Linkedin } from 'lucide-react';
 
 const Contact = () => {
   return (
